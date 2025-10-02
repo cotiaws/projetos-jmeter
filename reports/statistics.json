@@ -1,0 +1,50 @@
+{
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 20,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 304.2,
+    "medianResTime" : 279.5,
+    "minResTime" : 136.0,
+    "maxResTime" : 946.0,
+    "pct1ResTime" : 451.20000000000005,
+    "pct2ResTime" : 921.3499999999997,
+    "pct3ResTime" : 946.0,
+    "throughput" : 2.1383513311237037,
+    "receivedKBytesPerSec" : 1.337304875441035,
+    "sentKBytesPerSec" : 0.3424703303752807
+  },
+  "Consulta de CEP inexistente" : {
+    "transaction" : "Consulta de CEP inexistente",
+    "sampleCount" : 10,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 144.19999999999996,
+    "medianResTime" : 141.0,
+    "minResTime" : 136.0,
+    "maxResTime" : 162.0,
+    "pct1ResTime" : 161.3,
+    "pct2ResTime" : 162.0,
+    "pct3ResTime" : 162.0,
+    "throughput" : 1.199184554502938,
+    "receivedKBytesPerSec" : 0.5468937372586641,
+    "sentKBytesPerSec" : 0.19205690130711114
+  },
+  "Consulta de CEPs válidos" : {
+    "transaction" : "Consulta de CEPs válidos",
+    "sampleCount" : 10,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 464.2,
+    "medianResTime" : 403.0,
+    "minResTime" : 397.0,
+    "maxResTime" : 946.0,
+    "pct1ResTime" : 896.7000000000002,
+    "pct2ResTime" : 946.0,
+    "pct3ResTime" : 946.0,
+    "throughput" : 1.085304970696766,
+    "receivedKBytesPerSec" : 0.8625206886260038,
+    "sentKBytesPerSec" : 0.17381837421315388
+  }
+}

@@ -1,0 +1,21 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1759405474130,946,Consulta de CEPs válidos,200,OK,Grupo de Usuários 1-1,text,true,,801,164,2,2,https://viacep.com.br/ws/01001-000/json,945,0,769
+1759405475144,142,Consulta de CEP inexistente,200,OK,Grupo de Usuários 1-1,text,true,,467,164,2,2,https://viacep.com.br/ws/00000-000/json,142,0,0
+1759405474956,435,Consulta de CEPs válidos,200,OK,Grupo de Usuários 1-2,text,true,,828,164,1,1,https://viacep.com.br/ws/20040-007/json,434,0,296
+1759405475395,162,Consulta de CEP inexistente,200,OK,Grupo de Usuários 1-2,text,true,,467,164,1,1,https://viacep.com.br/ws/00000-000/json,162,0,0
+1759405475958,453,Consulta de CEPs válidos,200,OK,Grupo de Usuários 1-3,text,true,,822,164,1,1,https://viacep.com.br/ws/30140-110/json,453,0,323
+1759405476412,146,Consulta de CEP inexistente,200,OK,Grupo de Usuários 1-3,text,true,,467,164,1,1,https://viacep.com.br/ws/00000-000/json,146,0,0
+1759405476963,401,Consulta de CEPs válidos,200,OK,Grupo de Usuários 1-4,text,true,,808,164,1,1,https://viacep.com.br/ws/70040-010/json,401,0,273
+1759405477365,138,Consulta de CEP inexistente,200,OK,Grupo de Usuários 1-4,text,true,,467,164,1,1,https://viacep.com.br/ws/00000-000/json,138,0,0
+1759405477950,398,Consulta de CEPs válidos,200,OK,Grupo de Usuários 1-5,text,true,,810,164,1,1,https://viacep.com.br/ws/60125-100/json,398,0,268
+1759405478349,155,Consulta de CEP inexistente,200,OK,Grupo de Usuários 1-5,text,true,,467,164,1,1,https://viacep.com.br/ws/00000-000/json,155,0,0
+1759405478950,406,Consulta de CEPs válidos,200,OK,Grupo de Usuários 1-6,text,true,,801,164,1,1,https://viacep.com.br/ws/01001-000/json,406,0,272
+1759405479357,138,Consulta de CEP inexistente,200,OK,Grupo de Usuários 1-6,text,true,,467,164,1,1,https://viacep.com.br/ws/00000-000/json,138,0,0
+1759405479946,401,Consulta de CEPs válidos,200,OK,Grupo de Usuários 1-7,text,true,,828,164,1,1,https://viacep.com.br/ws/20040-007/json,401,0,275
+1759405480348,140,Consulta de CEP inexistente,200,OK,Grupo de Usuários 1-7,text,true,,467,164,1,1,https://viacep.com.br/ws/00000-000/json,140,0,0
+1759405480946,397,Consulta de CEPs válidos,200,OK,Grupo de Usuários 1-8,text,true,,822,164,1,1,https://viacep.com.br/ws/30140-110/json,396,0,269
+1759405481343,136,Consulta de CEP inexistente,200,OK,Grupo de Usuários 1-8,text,true,,467,164,1,1,https://viacep.com.br/ws/00000-000/json,136,0,0
+1759405481949,405,Consulta de CEPs válidos,200,OK,Grupo de Usuários 1-9,text,true,,808,164,1,1,https://viacep.com.br/ws/70040-010/json,404,0,268
+1759405482354,147,Consulta de CEP inexistente,200,OK,Grupo de Usuários 1-9,text,true,,467,164,1,1,https://viacep.com.br/ws/00000-000/json,147,0,0
+1759405482944,400,Consulta de CEPs válidos,200,OK,Grupo de Usuários 1-10,text,true,,810,164,1,1,https://viacep.com.br/ws/60125-100/json,400,0,272
+1759405483345,138,Consulta de CEP inexistente,200,OK,Grupo de Usuários 1-10,text,true,,467,164,1,1,https://viacep.com.br/ws/00000-000/json,138,0,0
